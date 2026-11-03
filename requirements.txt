@@ -5,3 +5,4 @@ shap
 matplotlib
 anthropic
 python-dotenv
+pytest
